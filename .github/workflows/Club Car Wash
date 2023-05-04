@@ -1,0 +1,33 @@
+body {
+    background-color: pink;
+}
+  
+h1 {
+  color: dark grey;
+  margin-left: 20px;
+}
+
+#myDiv{
+  background-color: light purple;
+  border-style: dotted;
+  border-color: ivory;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Club Car Wash</title>
+<link rel="stylesheet" href="finalproject.css">
+</head>
+
+<body>
+    <h1>IT-1000 Final Project</h1>
+    <div id="myDiv">
+        <p>
+            
+        </p>
+    </div>
+</body>
+
+</html>
