@@ -21,6 +21,13 @@ h1 {
 <link rel="stylesheet" href="finalproject.css">
 </head>
 
+<ul>
+  <li><a href="#home">Biography</a></li>
+  <li><a href="#news">Accountant Assistant</a></li>
+  <li><a href="#contact">Club Car Wash</a></li>
+  <li><a href="#about">Teaching</a></li>
+</ul>
+
 <body>
     <h1>IT-1000 Final Project</h1>
     <div id="myDiv">
@@ -38,10 +45,9 @@ h1 {
             3. Commercial Rating 
             4. Multi-Engine Rating
             5. CFI Rating 
-            
-            
         </p>
     </div>
 </body>
 
 </html>
+<code> tag
